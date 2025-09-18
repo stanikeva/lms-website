@@ -2,6 +2,10 @@
 
 The website is currently running on the link below:  
 👉 [LMS Website Live Demo](https://stanikeva.webpages.auth.gr/3591partB/index.php)
+(You can use the credentials 
+	USERNAME: emily.johnson@example.com
+	PASSWORD: password123
+to view this page as a student)
 
 ## 📖 Description
 A responsive platform that helps students and teachers organize, manage, and access learning resources efficiently.
