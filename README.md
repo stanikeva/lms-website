@@ -9,7 +9,7 @@ A responsive platform that helps students and teachers organize, manage, and acc
 ## 📸 Functionality Screenshots
 
 ### 🔑 Login
-![Login](Assets/1LoginPage.png)
+![Login](Assets/1Login.png)
 
 ### 🏠 Home
 ![Home](Assets/2Homepage.png)
